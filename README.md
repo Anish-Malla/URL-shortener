@@ -8,4 +8,4 @@ For each long URL given by the user the application randomly generates an alphab
 https://tinyurlanish.herokuapp.com/
 
 # Youtube Tutorial
-** Coming Soon **
+https://www.youtube.com/watch?v=YI16KWyA3M0
